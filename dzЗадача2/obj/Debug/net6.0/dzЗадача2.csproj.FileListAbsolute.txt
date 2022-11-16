@@ -1,0 +1,15 @@
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.csproj.AssemblyReference.cache
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.AssemblyInfoInputs.cache
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.AssemblyInfo.cs
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.csproj.CoreCompileInputs.cache
+C:\Git1\dzЗадача2\bin\Debug\net6.0\dzЗадача2.exe
+C:\Git1\dzЗадача2\bin\Debug\net6.0\dzЗадача2.deps.json
+C:\Git1\dzЗадача2\bin\Debug\net6.0\dzЗадача2.runtimeconfig.json
+C:\Git1\dzЗадача2\bin\Debug\net6.0\dzЗадача2.dll
+C:\Git1\dzЗадача2\bin\Debug\net6.0\dzЗадача2.pdb
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.dll
+C:\Git1\dzЗадача2\obj\Debug\net6.0\refint\dzЗадача2.dll
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.pdb
+C:\Git1\dzЗадача2\obj\Debug\net6.0\dzЗадача2.genruntimeconfig.cache
+C:\Git1\dzЗадача2\obj\Debug\net6.0\ref\dzЗадача2.dll
